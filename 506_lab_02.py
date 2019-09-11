@@ -19,7 +19,7 @@ course_name = 'SI 506'
 # Next, append the text ": Programming I" to the value of the variable
 # selected above using the appropriate operator. Write code on next line.
 
-course_name= ': Programming I'
+course_name = ("SI 506: Programming I")
 # Next write a print() statement that prints the variable value to the
 # screen. Write code on next line.
 print(course_name)
